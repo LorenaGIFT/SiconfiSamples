@@ -1,0 +1,767 @@
+"";"exercicio";"demonstrativo";"periodo";"periodicidade";"instituicao";"cod_ibge";"uf";"populacao";"anexo";"rotulo";"coluna";"cod_conta";"conta";"valor"
+"1";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasExcetoIntraOrcamentarias";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";2431446504236
+"2";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasExcetoIntraOrcamentarias";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";2431446504236
+"3";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasExcetoIntraOrcamentarias";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";396170612577,44
+"4";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasExcetoIntraOrcamentarias";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";16,29
+"5";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasExcetoIntraOrcamentarias";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";396170612585
+"6";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasExcetoIntraOrcamentarias";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";16,29
+"7";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasExcetoIntraOrcamentarias";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";2035275891651
+"8";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasCorrentes";"RECEITAS CORRENTES";1450150463796
+"9";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasCorrentes";"RECEITAS CORRENTES";1450150463796
+"10";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasCorrentes";"RECEITAS CORRENTES";257201141018,82
+"11";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasCorrentes";"RECEITAS CORRENTES";17,74
+"12";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasCorrentes";"RECEITAS CORRENTES";257201141026
+"13";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasCorrentes";"RECEITAS CORRENTES";17,74
+"14";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasCorrentes";"RECEITAS CORRENTES";1192949322770
+"15";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaTributaria";"RECEITA TRIBUTÁRIA";506229240505
+"16";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaTributaria";"RECEITA TRIBUTÁRIA";506229240505
+"17";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaTributaria";"RECEITA TRIBUTÁRIA";88614459917,58
+"18";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaTributaria";"RECEITA TRIBUTÁRIA";17,5
+"19";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaTributaria";"RECEITA TRIBUTÁRIA";88614459917
+"20";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaTributaria";"RECEITA TRIBUTÁRIA";17,5
+"21";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaTributaria";"RECEITA TRIBUTÁRIA";417614780588
+"22";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"Impostos";"Impostos";498376793634
+"23";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"Impostos";"Impostos";498376793634
+"24";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"Impostos";"Impostos";87630129753,33
+"25";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"Impostos";"Impostos";17,58
+"26";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"Impostos";"Impostos";87630129753
+"27";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"Impostos";"Impostos";17,58
+"28";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"Impostos";"Impostos";410746663881
+"29";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"Taxas";"Taxas";7852446871
+"30";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"Taxas";"Taxas";7852446871
+"31";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"Taxas";"Taxas";984330164,25
+"32";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"Taxas";"Taxas";12,54
+"33";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"Taxas";"Taxas";984330164
+"34";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"Taxas";"Taxas";12,54
+"35";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"Taxas";"Taxas";6868116707
+"36";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaDeContribuicoes";"RECEITA DE CONTRIBUIÇÕES";792634516777
+"37";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaDeContribuicoes";"RECEITA DE CONTRIBUIÇÕES";792634516777
+"38";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaDeContribuicoes";"RECEITA DE CONTRIBUIÇÕES";129357930609,14
+"39";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaDeContribuicoes";"RECEITA DE CONTRIBUIÇÕES";16,32
+"40";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaDeContribuicoes";"RECEITA DE CONTRIBUIÇÕES";129357930609
+"41";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaDeContribuicoes";"RECEITA DE CONTRIBUIÇÕES";16,32
+"42";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaDeContribuicoes";"RECEITA DE CONTRIBUIÇÕES";663276586168
+"43";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ContribuicoesSociais";"Contribuições Sociais";776390408338
+"44";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ContribuicoesSociais";"Contribuições Sociais";776390408338
+"45";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ContribuicoesSociais";"Contribuições Sociais";126984734438,66
+"46";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ContribuicoesSociais";"Contribuições Sociais";16,36
+"47";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ContribuicoesSociais";"Contribuições Sociais";126984734439
+"48";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ContribuicoesSociais";"Contribuições Sociais";16,36
+"49";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ContribuicoesSociais";"Contribuições Sociais";649405673899
+"50";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ContribuicaoDeIntervencaoNoDominioEconomico";"Contribuição Econômicas";16244108439
+"51";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ContribuicaoDeIntervencaoNoDominioEconomico";"Contribuição Econômicas";16244108439
+"52";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ContribuicaoDeIntervencaoNoDominioEconomico";"Contribuição Econômicas";2373196170,48
+"53";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ContribuicaoDeIntervencaoNoDominioEconomico";"Contribuição Econômicas";14,61
+"54";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ContribuicaoDeIntervencaoNoDominioEconomico";"Contribuição Econômicas";2373196170
+"55";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ContribuicaoDeIntervencaoNoDominioEconomico";"Contribuição Econômicas";14,61
+"56";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ContribuicaoDeIntervencaoNoDominioEconomico";"Contribuição Econômicas";13870912269
+"57";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaPatrimonial";"RECEITA PATRIMONIAL";83282128678
+"58";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaPatrimonial";"RECEITA PATRIMONIAL";83282128678
+"59";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaPatrimonial";"RECEITA PATRIMONIAL";13084030283
+"60";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaPatrimonial";"RECEITA PATRIMONIAL";15,71
+"61";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaPatrimonial";"RECEITA PATRIMONIAL";13084030287
+"62";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaPatrimonial";"RECEITA PATRIMONIAL";15,71
+"63";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaPatrimonial";"RECEITA PATRIMONIAL";70198098391
+"64";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasImobiliarias";"Exploração do Patrimônio Imobiliário do Estado";12069524728
+"65";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasImobiliarias";"Exploração do Patrimônio Imobiliário do Estado";12069524728
+"66";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasImobiliarias";"Exploração do Patrimônio Imobiliário do Estado";272146324
+"67";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasImobiliarias";"Exploração do Patrimônio Imobiliário do Estado";2,25
+"68";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasImobiliarias";"Exploração do Patrimônio Imobiliário do Estado";272146324
+"69";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasImobiliarias";"Exploração do Patrimônio Imobiliário do Estado";2,25
+"70";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasImobiliarias";"Exploração do Patrimônio Imobiliário do Estado";11797378404
+"71";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasDeValoresMobiliarios";"Valores Mobiliários";27374841370
+"72";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasDeValoresMobiliarios";"Valores Mobiliários";27374841370
+"73";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasDeValoresMobiliarios";"Valores Mobiliários";4741012589
+"74";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasDeValoresMobiliarios";"Valores Mobiliários";17,32
+"75";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasDeValoresMobiliarios";"Valores Mobiliários";4741012590
+"76";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasDeValoresMobiliarios";"Valores Mobiliários";17,32
+"77";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasDeValoresMobiliarios";"Valores Mobiliários";22633828780
+"78";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaDeConcessoesEPermissoes";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";7605215873
+"79";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaDeConcessoesEPermissoes";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";7605215873
+"80";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaDeConcessoesEPermissoes";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";63157474
+"81";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaDeConcessoesEPermissoes";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";0,83
+"82";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaDeConcessoesEPermissoes";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";63157475
+"83";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaDeConcessoesEPermissoes";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";0,83
+"84";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaDeConcessoesEPermissoes";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";7542058398
+"85";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ExploracaoDeRecursosNaturais";"Exploração de Recursos Naturais";34755011657
+"86";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ExploracaoDeRecursosNaturais";"Exploração de Recursos Naturais";34755011657
+"87";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ExploracaoDeRecursosNaturais";"Exploração de Recursos Naturais";7634004868
+"88";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ExploracaoDeRecursosNaturais";"Exploração de Recursos Naturais";21,97
+"89";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ExploracaoDeRecursosNaturais";"Exploração de Recursos Naturais";7634004869
+"90";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ExploracaoDeRecursosNaturais";"Exploração de Recursos Naturais";21,97
+"91";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ExploracaoDeRecursosNaturais";"Exploração de Recursos Naturais";27121006788
+"92";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ExploracaoDoPatrimonioIntangivel";"Exploração do Patrimônio Intangível";2426
+"93";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ExploracaoDoPatrimonioIntangivel";"Exploração do Patrimônio Intangível";2426
+"94";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ExploracaoDoPatrimonioIntangivel";"Exploração do Patrimônio Intangível";150
+"95";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ExploracaoDoPatrimonioIntangivel";"Exploração do Patrimônio Intangível";6,18
+"96";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ExploracaoDoPatrimonioIntangivel";"Exploração do Patrimônio Intangível";150
+"97";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ExploracaoDoPatrimonioIntangivel";"Exploração do Patrimônio Intangível";6,18
+"98";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ExploracaoDoPatrimonioIntangivel";"Exploração do Patrimônio Intangível";2276
+"99";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaDaCessaoDeDireitos";"Cessão de Direitos";1471514773
+"100";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaDaCessaoDeDireitos";"Cessão de Direitos";1471514773
+"101";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaDaCessaoDeDireitos";"Cessão de Direitos";371816564
+"102";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaDaCessaoDeDireitos";"Cessão de Direitos";25,27
+"103";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaDaCessaoDeDireitos";"Cessão de Direitos";371816565
+"104";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaDaCessaoDeDireitos";"Cessão de Direitos";25,27
+"105";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaDaCessaoDeDireitos";"Cessão de Direitos";1099698208
+"106";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OutrasReceitasPatrimoniais";"Demais Receitas Patrimoniais";6017851
+"107";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OutrasReceitasPatrimoniais";"Demais Receitas Patrimoniais";6017851
+"108";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OutrasReceitasPatrimoniais";"Demais Receitas Patrimoniais";1892314
+"109";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OutrasReceitasPatrimoniais";"Demais Receitas Patrimoniais";31,45
+"110";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OutrasReceitasPatrimoniais";"Demais Receitas Patrimoniais";1892314
+"111";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OutrasReceitasPatrimoniais";"Demais Receitas Patrimoniais";31,45
+"112";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OutrasReceitasPatrimoniais";"Demais Receitas Patrimoniais";4125537
+"113";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaAgropecuaria";"RECEITA AGROPECUÁRIA";28674726
+"114";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaAgropecuaria";"RECEITA AGROPECUÁRIA";28674726
+"115";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaAgropecuaria";"RECEITA AGROPECUÁRIA";2775596
+"116";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaAgropecuaria";"RECEITA AGROPECUÁRIA";9,68
+"117";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaAgropecuaria";"RECEITA AGROPECUÁRIA";2775597
+"118";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaAgropecuaria";"RECEITA AGROPECUÁRIA";9,68
+"119";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaAgropecuaria";"RECEITA AGROPECUÁRIA";25899129
+"120";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaIndustrial";"RECEITA INDUSTRIAL";1735136764
+"121";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaIndustrial";"RECEITA INDUSTRIAL";1735136764
+"122";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaIndustrial";"RECEITA INDUSTRIAL";123480669
+"123";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaIndustrial";"RECEITA INDUSTRIAL";7,12
+"124";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaIndustrial";"RECEITA INDUSTRIAL";123480669
+"125";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaIndustrial";"RECEITA INDUSTRIAL";7,12
+"126";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaIndustrial";"RECEITA INDUSTRIAL";1611656095
+"127";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaDeServicos";"RECEITA DE SERVIÇOS";37168892591
+"128";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaDeServicos";"RECEITA DE SERVIÇOS";37168892591
+"129";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaDeServicos";"RECEITA DE SERVIÇOS";9278860134
+"130";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaDeServicos";"RECEITA DE SERVIÇOS";24,96
+"131";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaDeServicos";"RECEITA DE SERVIÇOS";9278860137
+"132";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaDeServicos";"RECEITA DE SERVIÇOS";24,96
+"133";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaDeServicos";"RECEITA DE SERVIÇOS";27890032454
+"134";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ServicosAdministrativosEComerciaisGerais";"Serviços Administrativos e Comerciais Gerais";4405526022
+"135";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ServicosAdministrativosEComerciaisGerais";"Serviços Administrativos e Comerciais Gerais";4405526022
+"136";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ServicosAdministrativosEComerciaisGerais";"Serviços Administrativos e Comerciais Gerais";624543247
+"137";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ServicosAdministrativosEComerciaisGerais";"Serviços Administrativos e Comerciais Gerais";14,18
+"138";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ServicosAdministrativosEComerciaisGerais";"Serviços Administrativos e Comerciais Gerais";624543248
+"139";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ServicosAdministrativosEComerciaisGerais";"Serviços Administrativos e Comerciais Gerais";14,18
+"140";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ServicosAdministrativosEComerciaisGerais";"Serviços Administrativos e Comerciais Gerais";3780982774
+"141";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ServicosEAtividadesReferentesANavegacaoEAoTransporte";"Serviços e Atividades Referentes à Navegação e ao Transporte";2832047055
+"142";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ServicosEAtividadesReferentesANavegacaoEAoTransporte";"Serviços e Atividades Referentes à Navegação e ao Transporte";2832047055
+"143";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ServicosEAtividadesReferentesANavegacaoEAoTransporte";"Serviços e Atividades Referentes à Navegação e ao Transporte";358711123
+"144";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ServicosEAtividadesReferentesANavegacaoEAoTransporte";"Serviços e Atividades Referentes à Navegação e ao Transporte";12,67
+"145";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ServicosEAtividadesReferentesANavegacaoEAoTransporte";"Serviços e Atividades Referentes à Navegação e ao Transporte";358711124
+"146";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ServicosEAtividadesReferentesANavegacaoEAoTransporte";"Serviços e Atividades Referentes à Navegação e ao Transporte";12,67
+"147";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ServicosEAtividadesReferentesANavegacaoEAoTransporte";"Serviços e Atividades Referentes à Navegação e ao Transporte";2473335931
+"148";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ServicosEAtividadesReferentesASaude";"Serviços e Atividades Referentes à Saúde";1739219192
+"149";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ServicosEAtividadesReferentesASaude";"Serviços e Atividades Referentes à Saúde";1739219192
+"150";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ServicosEAtividadesReferentesASaude";"Serviços e Atividades Referentes à Saúde";266418677
+"151";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ServicosEAtividadesReferentesASaude";"Serviços e Atividades Referentes à Saúde";15,32
+"152";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ServicosEAtividadesReferentesASaude";"Serviços e Atividades Referentes à Saúde";266418677
+"153";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ServicosEAtividadesReferentesASaude";"Serviços e Atividades Referentes à Saúde";15,32
+"154";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ServicosEAtividadesReferentesASaude";"Serviços e Atividades Referentes à Saúde";1472800515
+"155";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ServicosEAtividadesFinanceiras";"Serviços e Atividades Financeiras";28159246330
+"156";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ServicosEAtividadesFinanceiras";"Serviços e Atividades Financeiras";28159246330
+"157";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ServicosEAtividadesFinanceiras";"Serviços e Atividades Financeiras";8024969876
+"158";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ServicosEAtividadesFinanceiras";"Serviços e Atividades Financeiras";28,5
+"159";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ServicosEAtividadesFinanceiras";"Serviços e Atividades Financeiras";8024969877
+"160";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ServicosEAtividadesFinanceiras";"Serviços e Atividades Financeiras";28,5
+"161";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ServicosEAtividadesFinanceiras";"Serviços e Atividades Financeiras";20134276453
+"162";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OutrosServicos";"Outros Serviços";32853992
+"163";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OutrosServicos";"Outros Serviços";32853992
+"164";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OutrosServicos";"Outros Serviços";4217211
+"165";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OutrosServicos";"Outros Serviços";12,84
+"166";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OutrosServicos";"Outros Serviços";4217211
+"167";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OutrosServicos";"Outros Serviços";12,84
+"168";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OutrosServicos";"Outros Serviços";28636781
+"169";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"TransferenciasCorrentes";"TRANSFERÊNCIAS CORRENTES";1365819427
+"170";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"TransferenciasCorrentes";"TRANSFERÊNCIAS CORRENTES";1365819427
+"171";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"TransferenciasCorrentes";"TRANSFERÊNCIAS CORRENTES";159962980
+"172";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"TransferenciasCorrentes";"TRANSFERÊNCIAS CORRENTES";11,71
+"173";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"TransferenciasCorrentes";"TRANSFERÊNCIAS CORRENTES";159962980
+"174";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"TransferenciasCorrentes";"TRANSFERÊNCIAS CORRENTES";11,71
+"175";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"TransferenciasCorrentes";"TRANSFERÊNCIAS CORRENTES";1205856447
+"176";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasCorrentesAClassificar";"RECEITAS CORRENTES A CLASSIFICAR";122291810
+"177";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasCorrentesAClassificar";"RECEITAS CORRENTES A CLASSIFICAR";122291810
+"178";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasCorrentesAClassificar";"RECEITAS CORRENTES A CLASSIFICAR";-122291810
+"179";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OutrasReceitasCorrentes";"OUTRAS RECEITAS CORRENTES";27706054328
+"180";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OutrasReceitasCorrentes";"OUTRAS RECEITAS CORRENTES";27706054328
+"181";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OutrasReceitasCorrentes";"OUTRAS RECEITAS CORRENTES";16457349020,1
+"182";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OutrasReceitasCorrentes";"OUTRAS RECEITAS CORRENTES";59,4
+"183";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OutrasReceitasCorrentes";"OUTRAS RECEITAS CORRENTES";16457349020
+"184";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OutrasReceitasCorrentes";"OUTRAS RECEITAS CORRENTES";59,4
+"185";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OutrasReceitasCorrentes";"OUTRAS RECEITAS CORRENTES";11248705308
+"186";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"MultasEJurosDeMora";"Multas Administrativas, Contratuais e Judiciais";12838359992
+"187";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"MultasEJurosDeMora";"Multas Administrativas, Contratuais e Judiciais";12838359992
+"188";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"MultasEJurosDeMora";"Multas Administrativas, Contratuais e Judiciais";1007254388,68
+"189";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"MultasEJurosDeMora";"Multas Administrativas, Contratuais e Judiciais";7,85
+"190";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"MultasEJurosDeMora";"Multas Administrativas, Contratuais e Judiciais";1007254389
+"191";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"MultasEJurosDeMora";"Multas Administrativas, Contratuais e Judiciais";7,85
+"192";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"MultasEJurosDeMora";"Multas Administrativas, Contratuais e Judiciais";11831105603
+"193";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"IndenizacoesERestituicoes";"Indenizações, Restituições e Ressarcimentos";5767317976
+"194";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"IndenizacoesERestituicoes";"Indenizações, Restituições e Ressarcimentos";5767317976
+"195";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"IndenizacoesERestituicoes";"Indenizações, Restituições e Ressarcimentos";860379593,44
+"196";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"IndenizacoesERestituicoes";"Indenizações, Restituições e Ressarcimentos";14,92
+"197";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"IndenizacoesERestituicoes";"Indenizações, Restituições e Ressarcimentos";860379593
+"198";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"IndenizacoesERestituicoes";"Indenizações, Restituições e Ressarcimentos";14,92
+"199";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"IndenizacoesERestituicoes";"Indenizações, Restituições e Ressarcimentos";4906938383
+"200";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"BensDireitosEValoresIncorporadosAoPatrimonioPublico";"Bens, Direitos e Valores Incorporados ao Patrimônio Público";478466641
+"201";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"BensDireitosEValoresIncorporadosAoPatrimonioPublico";"Bens, Direitos e Valores Incorporados ao Patrimônio Público";478466641
+"202";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"BensDireitosEValoresIncorporadosAoPatrimonioPublico";"Bens, Direitos e Valores Incorporados ao Patrimônio Público";81250972,37
+"203";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"BensDireitosEValoresIncorporadosAoPatrimonioPublico";"Bens, Direitos e Valores Incorporados ao Patrimônio Público";16,98
+"204";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"BensDireitosEValoresIncorporadosAoPatrimonioPublico";"Bens, Direitos e Valores Incorporados ao Patrimônio Público";81250972
+"205";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"BensDireitosEValoresIncorporadosAoPatrimonioPublico";"Bens, Direitos e Valores Incorporados ao Patrimônio Público";16,98
+"206";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"BensDireitosEValoresIncorporadosAoPatrimonioPublico";"Bens, Direitos e Valores Incorporados ao Patrimônio Público";397215669
+"207";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasCorrentesDiversas";"Demais Receitas Correntes";8621909719
+"208";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasCorrentesDiversas";"Demais Receitas Correntes";8621909719
+"209";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasCorrentesDiversas";"Demais Receitas Correntes";14508464065,61
+"210";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasCorrentesDiversas";"Demais Receitas Correntes";168,27
+"211";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasCorrentesDiversas";"Demais Receitas Correntes";14508464066
+"212";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasCorrentesDiversas";"Demais Receitas Correntes";168,27
+"213";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasCorrentesDiversas";"Demais Receitas Correntes";-5886554347
+"214";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasDeCapital";"RECEITAS DE CAPITAL";981296040440
+"215";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasDeCapital";"RECEITAS DE CAPITAL";981296040440
+"216";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasDeCapital";"RECEITAS DE CAPITAL";138969471558,62
+"217";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasDeCapital";"RECEITAS DE CAPITAL";14,16
+"218";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasDeCapital";"RECEITAS DE CAPITAL";138969471559
+"219";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasDeCapital";"RECEITAS DE CAPITAL";14,16
+"220";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasDeCapital";"RECEITAS DE CAPITAL";842326568881
+"221";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasDeOperacoesDeCredito";"OPERAÇÕES DE CRÉDITO";622711149733
+"222";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasDeOperacoesDeCredito";"OPERAÇÕES DE CRÉDITO";622711149733
+"223";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasDeOperacoesDeCredito";"OPERAÇÕES DE CRÉDITO";119213399667
+"224";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasDeOperacoesDeCredito";"OPERAÇÕES DE CRÉDITO";19,14
+"225";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasDeOperacoesDeCredito";"OPERAÇÕES DE CRÉDITO";119213399667
+"226";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasDeOperacoesDeCredito";"OPERAÇÕES DE CRÉDITO";19,14
+"227";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasDeOperacoesDeCredito";"OPERAÇÕES DE CRÉDITO";503497750066
+"228";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OperacoesDeCreditoInternas";"Operações de Crédito - Mercado Interno";611479573133
+"229";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OperacoesDeCreditoInternas";"Operações de Crédito - Mercado Interno";611479573133
+"230";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OperacoesDeCreditoInternas";"Operações de Crédito - Mercado Interno";119202063075
+"231";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OperacoesDeCreditoInternas";"Operações de Crédito - Mercado Interno";19,49
+"232";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OperacoesDeCreditoInternas";"Operações de Crédito - Mercado Interno";119202063075
+"233";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OperacoesDeCreditoInternas";"Operações de Crédito - Mercado Interno";19,49
+"234";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OperacoesDeCreditoInternas";"Operações de Crédito - Mercado Interno";492277510058
+"235";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OperacoesDeCreditoExternas";"Operações de Crédito - Mercado Externo";11231576600
+"236";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OperacoesDeCreditoExternas";"Operações de Crédito - Mercado Externo";11231576600
+"237";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OperacoesDeCreditoExternas";"Operações de Crédito - Mercado Externo";11336592
+"238";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OperacoesDeCreditoExternas";"Operações de Crédito - Mercado Externo";0,1
+"239";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OperacoesDeCreditoExternas";"Operações de Crédito - Mercado Externo";11336592
+"240";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OperacoesDeCreditoExternas";"Operações de Crédito - Mercado Externo";0,1
+"241";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OperacoesDeCreditoExternas";"Operações de Crédito - Mercado Externo";11220240008
+"242";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"AlienacaoDeBens";"ALIENAÇÃO DE BENS";8074271083
+"243";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"AlienacaoDeBens";"ALIENAÇÃO DE BENS";8074271083
+"244";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"AlienacaoDeBens";"ALIENAÇÃO DE BENS";92121361,19
+"245";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"AlienacaoDeBens";"ALIENAÇÃO DE BENS";1,14
+"246";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"AlienacaoDeBens";"ALIENAÇÃO DE BENS";92121361
+"247";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"AlienacaoDeBens";"ALIENAÇÃO DE BENS";1,14
+"248";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"AlienacaoDeBens";"ALIENAÇÃO DE BENS";7982149722
+"249";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"AlienacaoDeBensMoveis";"Alienação de Bens Móveis";1995235554
+"250";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"AlienacaoDeBensMoveis";"Alienação de Bens Móveis";1995235554
+"251";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"AlienacaoDeBensMoveis";"Alienação de Bens Móveis";79157093,42
+"252";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"AlienacaoDeBensMoveis";"Alienação de Bens Móveis";3,97
+"253";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"AlienacaoDeBensMoveis";"Alienação de Bens Móveis";79157093
+"254";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"AlienacaoDeBensMoveis";"Alienação de Bens Móveis";3,97
+"255";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"AlienacaoDeBensMoveis";"Alienação de Bens Móveis";1916078461
+"256";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"AlienacaoDeBensImoveis";"Alienação de Bens Imóveis";1079035529
+"257";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"AlienacaoDeBensImoveis";"Alienação de Bens Imóveis";1079035529
+"258";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"AlienacaoDeBensImoveis";"Alienação de Bens Imóveis";12964267,77
+"259";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"AlienacaoDeBensImoveis";"Alienação de Bens Imóveis";1,2
+"260";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"AlienacaoDeBensImoveis";"Alienação de Bens Imóveis";12964268
+"261";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"AlienacaoDeBensImoveis";"Alienação de Bens Imóveis";1,2
+"262";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"AlienacaoDeBensImoveis";"Alienação de Bens Imóveis";1066071261
+"263";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"AlienacaoDeBensIntangiveis";"Alienação de Bens Intangíveis";5e+09
+"264";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"AlienacaoDeBensIntangiveis";"Alienação de Bens Intangíveis";5e+09
+"265";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"AlienacaoDeBensIntangiveis";"Alienação de Bens Intangíveis";5e+09
+"266";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"AmortizacoesDeEmprestimos";"AMORTIZAÇÕES DE EMPRÉSTIMOS";20726377928
+"267";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"AmortizacoesDeEmprestimos";"AMORTIZAÇÕES DE EMPRÉSTIMOS";20726377928
+"268";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"AmortizacoesDeEmprestimos";"AMORTIZAÇÕES DE EMPRÉSTIMOS";4862208572
+"269";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"AmortizacoesDeEmprestimos";"AMORTIZAÇÕES DE EMPRÉSTIMOS";23,46
+"270";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"AmortizacoesDeEmprestimos";"AMORTIZAÇÕES DE EMPRÉSTIMOS";4862208573
+"271";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"AmortizacoesDeEmprestimos";"AMORTIZAÇÕES DE EMPRÉSTIMOS";23,46
+"272";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"AmortizacoesDeEmprestimos";"AMORTIZAÇÕES DE EMPRÉSTIMOS";15864169355
+"273";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"TransferenciasDeCapital";"TRANSFERÊNCIAS DE CAPITAL";222505661
+"274";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"TransferenciasDeCapital";"TRANSFERÊNCIAS DE CAPITAL";222505661
+"275";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"TransferenciasDeCapital";"TRANSFERÊNCIAS DE CAPITAL";191655
+"276";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"TransferenciasDeCapital";"TRANSFERÊNCIAS DE CAPITAL";0,09
+"277";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"TransferenciasDeCapital";"TRANSFERÊNCIAS DE CAPITAL";191655
+"278";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"TransferenciasDeCapital";"TRANSFERÊNCIAS DE CAPITAL";0,09
+"279";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"TransferenciasDeCapital";"TRANSFERÊNCIAS DE CAPITAL";222314006
+"280";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OutrasReceitasDeCapital";"OUTRAS RECEITAS DE CAPITAL";329561736035
+"281";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OutrasReceitasDeCapital";"OUTRAS RECEITAS DE CAPITAL";329561736035
+"282";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OutrasReceitasDeCapital";"OUTRAS RECEITAS DE CAPITAL";14801550303,43
+"283";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OutrasReceitasDeCapital";"OUTRAS RECEITAS DE CAPITAL";4,49
+"284";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OutrasReceitasDeCapital";"OUTRAS RECEITAS DE CAPITAL";14801550303
+"285";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OutrasReceitasDeCapital";"OUTRAS RECEITAS DE CAPITAL";4,49
+"286";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OutrasReceitasDeCapital";"OUTRAS RECEITAS DE CAPITAL";314760185732
+"287";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ResultadoDoBancoCentralDoBrasilOutrasReceitasDeCapital";"Resultado do Banco Central";215022839244
+"288";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ResultadoDoBancoCentralDoBrasilOutrasReceitasDeCapital";"Resultado do Banco Central";215022839244
+"289";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ResultadoDoBancoCentralDoBrasilOutrasReceitasDeCapital";"Resultado do Banco Central";215022839244
+"290";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"RemuneracaoDasDisponibilidadesDoTesouroOutrasReceitasDeCapital";"Remuneração das Disponibilidades do Tesouro";114535647244
+"291";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"RemuneracaoDasDisponibilidadesDoTesouroOutrasReceitasDeCapital";"Remuneração das Disponibilidades do Tesouro";114535647244
+"292";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"RemuneracaoDasDisponibilidadesDoTesouroOutrasReceitasDeCapital";"Remuneração das Disponibilidades do Tesouro";14801550303,43
+"293";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"RemuneracaoDasDisponibilidadesDoTesouroOutrasReceitasDeCapital";"Remuneração das Disponibilidades do Tesouro";12,92
+"294";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"RemuneracaoDasDisponibilidadesDoTesouroOutrasReceitasDeCapital";"Remuneração das Disponibilidades do Tesouro";14801550303
+"295";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"RemuneracaoDasDisponibilidadesDoTesouroOutrasReceitasDeCapital";"Remuneração das Disponibilidades do Tesouro";12,92
+"296";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"RemuneracaoDasDisponibilidadesDoTesouroOutrasReceitasDeCapital";"Remuneração das Disponibilidades do Tesouro";99734096941
+"297";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ResgateDeTitulosDoTesouro";"Resgate de Títulos do Tesouro";3249547
+"298";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ResgateDeTitulosDoTesouro";"Resgate de Títulos do Tesouro";3249547
+"299";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ResgateDeTitulosDoTesouro";"Resgate de Títulos do Tesouro";3249547
+"300";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasIntraOrcamentariasTotal";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";37576969337
+"301";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasIntraOrcamentariasTotal";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";37576969337
+"302";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasIntraOrcamentariasTotal";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";5123117349,51
+"303";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasIntraOrcamentariasTotal";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";13,63
+"304";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasIntraOrcamentariasTotal";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";5123117351
+"305";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasIntraOrcamentariasTotal";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";13,63
+"306";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasIntraOrcamentariasTotal";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";32453851986
+"307";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"SubtotalDasReceitas";"SUBTOTAL DAS RECEITAS (III) = (I + II)";2469023473573
+"308";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"SubtotalDasReceitas";"SUBTOTAL DAS RECEITAS (III) = (I + II)";2469023473573
+"309";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"SubtotalDasReceitas";"SUBTOTAL DAS RECEITAS (III) = (I + II)";401293729926,95
+"310";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"SubtotalDasReceitas";"SUBTOTAL DAS RECEITAS (III) = (I + II)";16,25
+"311";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"SubtotalDasReceitas";"SUBTOTAL DAS RECEITAS (III) = (I + II)";401293729936
+"312";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"SubtotalDasReceitas";"SUBTOTAL DAS RECEITAS (III) = (I + II)";16,25
+"313";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"SubtotalDasReceitas";"SUBTOTAL DAS RECEITAS (III) = (I + II)";2067729743637
+"314";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OperacoesDeCreditoRefinanciamento";"OPERAÇÕES DE CRÉDITO/REFINANCIAMENTO (IV)";946407726665
+"315";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OperacoesDeCreditoRefinanciamento";"OPERAÇÕES DE CRÉDITO/REFINANCIAMENTO (IV)";946407726665
+"316";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OperacoesDeCreditoRefinanciamento";"OPERAÇÕES DE CRÉDITO/REFINANCIAMENTO (IV)";159962099444,51
+"317";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OperacoesDeCreditoRefinanciamento";"OPERAÇÕES DE CRÉDITO/REFINANCIAMENTO (IV)";16,9
+"318";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OperacoesDeCreditoRefinanciamento";"OPERAÇÕES DE CRÉDITO/REFINANCIAMENTO (IV)";159962099445
+"319";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OperacoesDeCreditoRefinanciamento";"OPERAÇÕES DE CRÉDITO/REFINANCIAMENTO (IV)";16,9
+"320";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OperacoesDeCreditoRefinanciamento";"OPERAÇÕES DE CRÉDITO/REFINANCIAMENTO (IV)";786445627220
+"321";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OperacoesDeCreditoInternasRefinanciamento";"Operações de Crédito - Mercado Interno";925084468997
+"322";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OperacoesDeCreditoInternasRefinanciamento";"Operações de Crédito - Mercado Interno";925084468997
+"323";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OperacoesDeCreditoInternasRefinanciamento";"Operações de Crédito - Mercado Interno";159962099444,51
+"324";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OperacoesDeCreditoInternasRefinanciamento";"Operações de Crédito - Mercado Interno";17,29
+"325";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OperacoesDeCreditoInternasRefinanciamento";"Operações de Crédito - Mercado Interno";159962099445
+"326";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OperacoesDeCreditoInternasRefinanciamento";"Operações de Crédito - Mercado Interno";17,29
+"327";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OperacoesDeCreditoInternasRefinanciamento";"Operações de Crédito - Mercado Interno";765122369552
+"328";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OperacoesDeCreditoInternasRefinanciamentoMobiliaria";"Mobiliária";925084468997
+"329";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OperacoesDeCreditoInternasRefinanciamentoMobiliaria";"Mobiliária";925084468997
+"330";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OperacoesDeCreditoInternasRefinanciamentoMobiliaria";"Mobiliária";159962099444,51
+"331";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OperacoesDeCreditoInternasRefinanciamentoMobiliaria";"Mobiliária";17,29
+"332";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OperacoesDeCreditoInternasRefinanciamentoMobiliaria";"Mobiliária";159962099445
+"333";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OperacoesDeCreditoInternasRefinanciamentoMobiliaria";"Mobiliária";17,29
+"334";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OperacoesDeCreditoInternasRefinanciamentoMobiliaria";"Mobiliária";765122369552
+"335";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OperacoesDeCreditoExternasRefinanciamento";"Operações de Crédito - Mercado Externo";21323257668
+"336";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OperacoesDeCreditoExternasRefinanciamento";"Operações de Crédito - Mercado Externo";21323257668
+"337";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OperacoesDeCreditoExternasRefinanciamento";"Operações de Crédito - Mercado Externo";21323257668
+"338";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OperacoesDeCreditoExternasRefinanciamentoMobiliaria";"Mobiliária";21323257668
+"339";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OperacoesDeCreditoExternasRefinanciamentoMobiliaria";"Mobiliária";21323257668
+"340";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OperacoesDeCreditoExternasRefinanciamentoMobiliaria";"Mobiliária";21323257668
+"341";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"SubtotalReceitasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (V) = (III + IV)";3415431200238
+"342";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"SubtotalReceitasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (V) = (III + IV)";3415431200238
+"343";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"SubtotalReceitasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (V) = (III + IV)";561255829371,46
+"344";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"SubtotalReceitasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (V) = (III + IV)";16,43
+"345";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"SubtotalReceitasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (V) = (III + IV)";561255829381
+"346";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"SubtotalReceitasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (V) = (III + IV)";16,43
+"347";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"SubtotalReceitasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (V) = (III + IV)";2854175370857
+"348";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"AjustesNaPrevisaoAtualizada";"AJUSTES NA PREVISÃO ATUALIZADA (VI)";35204103
+"349";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"Deficit";"DÉFICIT (VII)";54942707291
+"350";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"TotalReceitas";"TOTAL (VIII) = (V + VI + VII)";3415431200238
+"351";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"TotalReceitas";"TOTAL (VIII) = (V + VI + VII)";3415466404341
+"352";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"TotalReceitas";"TOTAL (VIII) = (V + VI + VII)";561255829371,46
+"353";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"TotalReceitas";"TOTAL (VIII) = (V + VI + VII)";16,43
+"354";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"TotalReceitas";"TOTAL (VIII) = (V + VI + VII)";616198536672
+"355";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"TotalReceitas";"TOTAL (VIII) = (V + VI + VII)";18,04
+"356";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"TotalReceitas";"TOTAL (VIII) = (V + VI + VII)";2799267867669
+"357";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"CreditosAdicionaisAbertosComSuperavitFinanceiro";"Créditos Adicionais Abertos com Superávit Financeiro";34687438
+"358";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"CreditosAdicionaisAbertosComExcessoDeArrecadacao";"Créditos Adicionais Abertos com Excesso de Arrecadação";516665
+"359";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"DespesasExcetoIntraOrcamentarias";"DESPESAS (EXCETO INTRA-ORÇAMENTÁRIAS) (IX)";2443784447004
+"360";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"DespesasExcetoIntraOrcamentarias";"DESPESAS (EXCETO INTRA-ORÇAMENTÁRIAS) (IX)";2443819651107
+"361";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasExcetoIntraOrcamentarias";"DESPESAS (EXCETO INTRA-ORÇAMENTÁRIAS) (IX)";1402457398129,86
+"362";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"DespesasExcetoIntraOrcamentarias";"DESPESAS (EXCETO INTRA-ORÇAMENTÁRIAS) (IX)";1402457398130
+"363";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"DespesasExcetoIntraOrcamentarias";"DESPESAS (EXCETO INTRA-ORÇAMENTÁRIAS) (IX)";1041362252977
+"364";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasExcetoIntraOrcamentarias";"DESPESAS (EXCETO INTRA-ORÇAMENTÁRIAS) (IX)";372775826851,29
+"365";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"DespesasExcetoIntraOrcamentarias";"DESPESAS (EXCETO INTRA-ORÇAMENTÁRIAS) (IX)";372775826851
+"366";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"DespesasExcetoIntraOrcamentarias";"DESPESAS (EXCETO INTRA-ORÇAMENTÁRIAS) (IX)";2071043824256
+"367";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"DespesasExcetoIntraOrcamentarias";"DESPESAS (EXCETO INTRA-ORÇAMENTÁRIAS) (IX)";350940481950
+"368";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"DespesasCorrentes";"DESPESAS CORRENTES";1814654422203
+"369";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"DespesasCorrentes";"DESPESAS CORRENTES";1815910757412
+"370";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasCorrentes";"DESPESAS CORRENTES";1239555230016,37
+"371";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"DespesasCorrentes";"DESPESAS CORRENTES";1239555230017
+"372";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"DespesasCorrentes";"DESPESAS CORRENTES";576355527395
+"373";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasCorrentes";"DESPESAS CORRENTES";253366432683,65
+"374";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"DespesasCorrentes";"DESPESAS CORRENTES";253366432683
+"375";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"DespesasCorrentes";"DESPESAS CORRENTES";1562544324729
+"376";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"DespesasCorrentes";"DESPESAS CORRENTES";231601061612
+"377";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"PessoalEEncargosSociais";"PESSOAL E ENCARGOS SOCIAIS";282819862287
+"378";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"PessoalEEncargosSociais";"PESSOAL E ENCARGOS SOCIAIS";285736795975
+"379";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"PessoalEEncargosSociais";"PESSOAL E ENCARGOS SOCIAIS";179671009782,48
+"380";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"PessoalEEncargosSociais";"PESSOAL E ENCARGOS SOCIAIS";179671009782
+"381";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"PessoalEEncargosSociais";"PESSOAL E ENCARGOS SOCIAIS";106065786193
+"382";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"PessoalEEncargosSociais";"PESSOAL E ENCARGOS SOCIAIS";44258090659,4
+"383";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"PessoalEEncargosSociais";"PESSOAL E ENCARGOS SOCIAIS";44258090659
+"384";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"PessoalEEncargosSociais";"PESSOAL E ENCARGOS SOCIAIS";241478705316
+"385";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"PessoalEEncargosSociais";"PESSOAL E ENCARGOS SOCIAIS";42997252213
+"386";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"JurosEEncargosDaDivida";"JUROS E ENCARGOS DA DÍVIDA";339076867761
+"387";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"JurosEEncargosDaDivida";"JUROS E ENCARGOS DA DÍVIDA";339076867761
+"388";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"JurosEEncargosDaDivida";"JUROS E ENCARGOS DA DÍVIDA";93879203620,52
+"389";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"JurosEEncargosDaDivida";"JUROS E ENCARGOS DA DÍVIDA";93879203621
+"390";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"JurosEEncargosDaDivida";"JUROS E ENCARGOS DA DÍVIDA";245197664140
+"391";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"JurosEEncargosDaDivida";"JUROS E ENCARGOS DA DÍVIDA";41901022559,11
+"392";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"JurosEEncargosDaDivida";"JUROS E ENCARGOS DA DÍVIDA";41901022559
+"393";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"JurosEEncargosDaDivida";"JUROS E ENCARGOS DA DÍVIDA";297175845202
+"394";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"JurosEEncargosDaDivida";"JUROS E ENCARGOS DA DÍVIDA";41901022559
+"395";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"OutrasDespesasCorrentes";"OUTRAS DESPESAS CORRENTES";1192757692155
+"396";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"OutrasDespesasCorrentes";"OUTRAS DESPESAS CORRENTES";1191097093676
+"397";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"OutrasDespesasCorrentes";"OUTRAS DESPESAS CORRENTES";966005016613,37
+"398";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"OutrasDespesasCorrentes";"OUTRAS DESPESAS CORRENTES";966005016614
+"399";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"OutrasDespesasCorrentes";"OUTRAS DESPESAS CORRENTES";225092077062
+"400";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"OutrasDespesasCorrentes";"OUTRAS DESPESAS CORRENTES";167207319465,14
+"401";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"OutrasDespesasCorrentes";"OUTRAS DESPESAS CORRENTES";167207319465
+"402";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"OutrasDespesasCorrentes";"OUTRAS DESPESAS CORRENTES";1023889774211
+"403";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"OutrasDespesasCorrentes";"OUTRAS DESPESAS CORRENTES";146702786840
+"404";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"TransferenciasAEstadosDistritoFederalEMunicipios";"Transferências a Estados, Distrito Federal e Municípios";324434196485
+"405";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"TransferenciasAEstadosDistritoFederalEMunicipios";"Transferências a Estados, Distrito Federal e Municípios";324401643663
+"406";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"TransferenciasAEstadosDistritoFederalEMunicipios";"Transferências a Estados, Distrito Federal e Municípios";259865815690,55
+"407";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"TransferenciasAEstadosDistritoFederalEMunicipios";"Transferências a Estados, Distrito Federal e Municípios";259865815691
+"408";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"TransferenciasAEstadosDistritoFederalEMunicipios";"Transferências a Estados, Distrito Federal e Municípios";64535827972
+"409";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"TransferenciasAEstadosDistritoFederalEMunicipios";"Transferências a Estados, Distrito Federal e Municípios";48541439774,05
+"410";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"TransferenciasAEstadosDistritoFederalEMunicipios";"Transferências a Estados, Distrito Federal e Municípios";48541439774
+"411";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"TransferenciasAEstadosDistritoFederalEMunicipios";"Transferências a Estados, Distrito Federal e Municípios";275860203889
+"412";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"TransferenciasAEstadosDistritoFederalEMunicipios";"Transferências a Estados, Distrito Federal e Municípios";48448123687
+"413";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"BeneficiosPrevidenciarios";"Benefícios Previdenciários";547698474444
+"414";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"BeneficiosPrevidenciarios";"Benefícios Previdenciários";545897873634
+"415";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"BeneficiosPrevidenciarios";"Benefícios Previdenciários";544746599062,7
+"416";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"BeneficiosPrevidenciarios";"Benefícios Previdenciários";544746599063
+"417";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"BeneficiosPrevidenciarios";"Benefícios Previdenciários";1151274571
+"418";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"BeneficiosPrevidenciarios";"Benefícios Previdenciários";85485253037,64
+"419";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"BeneficiosPrevidenciarios";"Benefícios Previdenciários";85485253038
+"420";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"BeneficiosPrevidenciarios";"Benefícios Previdenciários";460412620596
+"421";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"BeneficiosPrevidenciarios";"Benefícios Previdenciários";67217312114
+"422";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"DemaisDespesasCorrentes";"Demais Despesas Correntes";320625021226
+"423";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"DemaisDespesasCorrentes";"Demais Despesas Correntes";320797576379
+"424";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DemaisDespesasCorrentes";"Demais Despesas Correntes";161392601860,12
+"425";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"DemaisDespesasCorrentes";"Demais Despesas Correntes";161392601860
+"426";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"DemaisDespesasCorrentes";"Demais Despesas Correntes";159404974519
+"427";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DemaisDespesasCorrentes";"Demais Despesas Correntes";33180626653,45
+"428";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"DemaisDespesasCorrentes";"Demais Despesas Correntes";33180626653
+"429";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"DemaisDespesasCorrentes";"Demais Despesas Correntes";287616949726
+"430";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"DemaisDespesasCorrentes";"Demais Despesas Correntes";31037351039
+"431";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"DespesasDeCapital";"DESPESAS DE CAPITAL";594601306923
+"432";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"DespesasDeCapital";"DESPESAS DE CAPITAL";592787259451
+"433";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasDeCapital";"DESPESAS DE CAPITAL";162902168113,49
+"434";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"DespesasDeCapital";"DESPESAS DE CAPITAL";162902168113
+"435";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"DespesasDeCapital";"DESPESAS DE CAPITAL";429885091338
+"436";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasDeCapital";"DESPESAS DE CAPITAL";119409394167,64
+"437";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"DespesasDeCapital";"DESPESAS DE CAPITAL";119409394168
+"438";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"DespesasDeCapital";"DESPESAS DE CAPITAL";473377865283
+"439";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"DespesasDeCapital";"DESPESAS DE CAPITAL";119339420338
+"440";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"Investimentos";"INVESTIMENTOS";58051961697
+"441";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"Investimentos";"INVESTIMENTOS";56270051788
+"442";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"Investimentos";"INVESTIMENTOS";2058135183,38
+"443";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"Investimentos";"INVESTIMENTOS";2058135183
+"444";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"Investimentos";"INVESTIMENTOS";54211916605
+"445";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"Investimentos";"INVESTIMENTOS";319992910,01
+"446";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"Investimentos";"INVESTIMENTOS";319992910
+"447";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"Investimentos";"INVESTIMENTOS";55950058878
+"448";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"Investimentos";"INVESTIMENTOS";252487324
+"449";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"InversoesFinanceiras";"INVERSÕES FINANCEIRAS";79307047025
+"450";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"InversoesFinanceiras";"INVERSÕES FINANCEIRAS";79274909462
+"451";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"InversoesFinanceiras";"INVERSÕES FINANCEIRAS";45706651406,72
+"452";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"InversoesFinanceiras";"INVERSÕES FINANCEIRAS";45706651407
+"453";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"InversoesFinanceiras";"INVERSÕES FINANCEIRAS";33568258055
+"454";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"InversoesFinanceiras";"INVERSÕES FINANCEIRAS";5316300522,69
+"455";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"InversoesFinanceiras";"INVERSÕES FINANCEIRAS";5316300523
+"456";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"InversoesFinanceiras";"INVERSÕES FINANCEIRAS";73958608939
+"457";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"InversoesFinanceiras";"INVERSÕES FINANCEIRAS";5313832279
+"458";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"AmortizacaoDaDivida";"AMORTIZAÇÃO DA DÍVIDA";457242298201
+"459";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"AmortizacaoDaDivida";"AMORTIZAÇÃO DA DÍVIDA";457242298201
+"460";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoDaDivida";"AMORTIZAÇÃO DA DÍVIDA";115137381523,39
+"461";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"AmortizacaoDaDivida";"AMORTIZAÇÃO DA DÍVIDA";115137381523
+"462";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"AmortizacaoDaDivida";"AMORTIZAÇÃO DA DÍVIDA";342104916678
+"463";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoDaDivida";"AMORTIZAÇÃO DA DÍVIDA";113773100734,94
+"464";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"AmortizacaoDaDivida";"AMORTIZAÇÃO DA DÍVIDA";113773100735
+"465";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"AmortizacaoDaDivida";"AMORTIZAÇÃO DA DÍVIDA";343469197466
+"466";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"AmortizacaoDaDivida";"AMORTIZAÇÃO DA DÍVIDA";113773100735
+"467";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"ReservaDeContingencia";"RESERVA DE CONTINGÊNCIA";34528717878
+"468";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"ReservaDeContingencia";"RESERVA DE CONTINGÊNCIA";35121634244
+"469";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"ReservaDeContingencia";"RESERVA DE CONTINGÊNCIA";35121634244
+"470";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"ReservaDeContingencia";"RESERVA DE CONTINGÊNCIA";35121634244
+"471";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"DespesasIntraOrcamentariasTotal";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";45697742425
+"472";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"DespesasIntraOrcamentariasTotal";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";45697742425
+"473";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasIntraOrcamentariasTotal";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";36493131524,24
+"474";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"DespesasIntraOrcamentariasTotal";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";36493131524
+"475";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"DespesasIntraOrcamentariasTotal";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";9204610901
+"476";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasIntraOrcamentariasTotal";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";4726722846,11
+"477";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"DespesasIntraOrcamentariasTotal";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";4726722847
+"478";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"DespesasIntraOrcamentariasTotal";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";40971019578
+"479";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"DespesasIntraOrcamentariasTotal";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";4560895202
+"480";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"SubtotalDasDespesas";"SUBTOTAL DAS DESPESAS (XI) = (IX + X)";2489482189429
+"481";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"SubtotalDasDespesas";"SUBTOTAL DAS DESPESAS (XI) = (IX + X)";2489517393532
+"482";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"SubtotalDasDespesas";"SUBTOTAL DAS DESPESAS (XI) = (IX + X)";1438950529654,1
+"483";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"SubtotalDasDespesas";"SUBTOTAL DAS DESPESAS (XI) = (IX + X)";1438950529654
+"484";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"SubtotalDasDespesas";"SUBTOTAL DAS DESPESAS (XI) = (IX + X)";1050566863878
+"485";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"SubtotalDasDespesas";"SUBTOTAL DAS DESPESAS (XI) = (IX + X)";377502549697,4
+"486";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"SubtotalDasDespesas";"SUBTOTAL DAS DESPESAS (XI) = (IX + X)";377502549698
+"487";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"SubtotalDasDespesas";"SUBTOTAL DAS DESPESAS (XI) = (IX + X)";2112014843834
+"488";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"SubtotalDasDespesas";"SUBTOTAL DAS DESPESAS (XI) = (IX + X)";355501377152
+"489";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"AmortizacaoRefinanciamentoDaDivida";"AMORTIZAÇÃO DA DÍVIDA/REFINANCIAMENTO (XII)";925949010808
+"490";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"AmortizacaoRefinanciamentoDaDivida";"AMORTIZAÇÃO DA DÍVIDA/REFINANCIAMENTO (XII)";925949010808
+"491";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDivida";"AMORTIZAÇÃO DA DÍVIDA/REFINANCIAMENTO (XII)";349591129254,87
+"492";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"AmortizacaoRefinanciamentoDaDivida";"AMORTIZAÇÃO DA DÍVIDA/REFINANCIAMENTO (XII)";349591129255
+"493";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"AmortizacaoRefinanciamentoDaDivida";"AMORTIZAÇÃO DA DÍVIDA/REFINANCIAMENTO (XII)";576357881553
+"494";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDivida";"AMORTIZAÇÃO DA DÍVIDA/REFINANCIAMENTO (XII)";238695986973,61
+"495";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"AmortizacaoRefinanciamentoDaDivida";"AMORTIZAÇÃO DA DÍVIDA/REFINANCIAMENTO (XII)";238695986974
+"496";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"AmortizacaoRefinanciamentoDaDivida";"AMORTIZAÇÃO DA DÍVIDA/REFINANCIAMENTO (XII)";687253023834
+"497";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"AmortizacaoRefinanciamentoDaDivida";"AMORTIZAÇÃO DA DÍVIDA/REFINANCIAMENTO (XII)";238695986974
+"498";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"AmortizacaoRefinanciamentoDaDividaInterna";"Amortização da Dívida Interna";884573993342
+"499";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"AmortizacaoRefinanciamentoDaDividaInterna";"Amortização da Dívida Interna";884573993342
+"500";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaInterna";"Amortização da Dívida Interna";341084225889,23
+"501";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"AmortizacaoRefinanciamentoDaDividaInterna";"Amortização da Dívida Interna";341084225889
+"502";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"AmortizacaoRefinanciamentoDaDividaInterna";"Amortização da Dívida Interna";543489767453
+"503";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaInterna";"Amortização da Dívida Interna";230939874219,97
+"504";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"AmortizacaoRefinanciamentoDaDividaInterna";"Amortização da Dívida Interna";230939874220
+"505";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"AmortizacaoRefinanciamentoDaDividaInterna";"Amortização da Dívida Interna";653634119122
+"506";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"AmortizacaoRefinanciamentoDaDividaInterna";"Amortização da Dívida Interna";230939874220
+"507";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"AmortizacaoRefinanciamentoDaDividaInternaMobiliaria";"Dívida Mobiliária";883623111050
+"508";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"AmortizacaoRefinanciamentoDaDividaInternaMobiliaria";"Dívida Mobiliária";883623111050
+"509";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaInternaMobiliaria";"Dívida Mobiliária";340917600000
+"510";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"AmortizacaoRefinanciamentoDaDividaInternaMobiliaria";"Dívida Mobiliária";340917600000
+"511";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"AmortizacaoRefinanciamentoDaDividaInternaMobiliaria";"Dívida Mobiliária";542705511050
+"512";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaInternaMobiliaria";"Dívida Mobiliária";230773248330,74
+"513";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"AmortizacaoRefinanciamentoDaDividaInternaMobiliaria";"Dívida Mobiliária";230773248331
+"514";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"AmortizacaoRefinanciamentoDaDividaInternaMobiliaria";"Dívida Mobiliária";652849862719
+"515";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"AmortizacaoRefinanciamentoDaDividaInternaMobiliaria";"Dívida Mobiliária";230773248331
+"516";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"AmortizacaoRefinanciamentoDaDividaInternaOutrasDividas";"Outras Dívidas";950882292
+"517";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"AmortizacaoRefinanciamentoDaDividaInternaOutrasDividas";"Outras Dívidas";950882292
+"518";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaInternaOutrasDividas";"Outras Dívidas";166625889,23
+"519";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"AmortizacaoRefinanciamentoDaDividaInternaOutrasDividas";"Outras Dívidas";166625889
+"520";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"AmortizacaoRefinanciamentoDaDividaInternaOutrasDividas";"Outras Dívidas";784256403
+"521";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaInternaOutrasDividas";"Outras Dívidas";166625889,23
+"522";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"AmortizacaoRefinanciamentoDaDividaInternaOutrasDividas";"Outras Dívidas";166625889
+"523";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"AmortizacaoRefinanciamentoDaDividaInternaOutrasDividas";"Outras Dívidas";784256403
+"524";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"AmortizacaoRefinanciamentoDaDividaInternaOutrasDividas";"Outras Dívidas";166625889
+"525";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"AmortizacaoRefinanciamentoDaDividaExterna";"Amortização da Dívida Externa";41375017466
+"526";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"AmortizacaoRefinanciamentoDaDividaExterna";"Amortização da Dívida Externa";41375017466
+"527";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaExterna";"Amortização da Dívida Externa";8506903365,64
+"528";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"AmortizacaoRefinanciamentoDaDividaExterna";"Amortização da Dívida Externa";8506903366
+"529";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"AmortizacaoRefinanciamentoDaDividaExterna";"Amortização da Dívida Externa";32868114100
+"530";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaExterna";"Amortização da Dívida Externa";7756112753,64
+"531";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"AmortizacaoRefinanciamentoDaDividaExterna";"Amortização da Dívida Externa";7756112754
+"532";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"AmortizacaoRefinanciamentoDaDividaExterna";"Amortização da Dívida Externa";33618904712
+"533";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"AmortizacaoRefinanciamentoDaDividaExterna";"Amortização da Dívida Externa";7756112754
+"534";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"AmortizacaoRefinanciamentoDaDividaExternaMobiliaria";"Dívida Mobiliária";39461357947
+"535";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"AmortizacaoRefinanciamentoDaDividaExternaMobiliaria";"Dívida Mobiliária";39461357947
+"536";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaExternaMobiliaria";"Dívida Mobiliária";8,2e+09
+"537";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"AmortizacaoRefinanciamentoDaDividaExternaMobiliaria";"Dívida Mobiliária";8,2e+09
+"538";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"AmortizacaoRefinanciamentoDaDividaExternaMobiliaria";"Dívida Mobiliária";31261357947
+"539";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaExternaMobiliaria";"Dívida Mobiliária";7534081186,04
+"540";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"AmortizacaoRefinanciamentoDaDividaExternaMobiliaria";"Dívida Mobiliária";7534081186
+"541";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"AmortizacaoRefinanciamentoDaDividaExternaMobiliaria";"Dívida Mobiliária";31927276761
+"542";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"AmortizacaoRefinanciamentoDaDividaExternaMobiliaria";"Dívida Mobiliária";7534081186
+"543";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"AmortizacaoRefinanciamentoDaDividaExternaOutrasDividas";"Outras Dívidas";1913659519
+"544";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"AmortizacaoRefinanciamentoDaDividaExternaOutrasDividas";"Outras Dívidas";1913659519
+"545";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaExternaOutrasDividas";"Outras Dívidas";306903365,64
+"546";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"AmortizacaoRefinanciamentoDaDividaExternaOutrasDividas";"Outras Dívidas";306903366
+"547";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"AmortizacaoRefinanciamentoDaDividaExternaOutrasDividas";"Outras Dívidas";1606756153
+"548";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"AmortizacaoRefinanciamentoDaDividaExternaOutrasDividas";"Outras Dívidas";222031567,6
+"549";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"AmortizacaoRefinanciamentoDaDividaExternaOutrasDividas";"Outras Dívidas";222031568
+"550";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"AmortizacaoRefinanciamentoDaDividaExternaOutrasDividas";"Outras Dívidas";1691627951
+"551";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"AmortizacaoRefinanciamentoDaDividaExternaOutrasDividas";"Outras Dívidas";222031568
+"552";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"SubtotalDespesasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (XIII) = (XI + XII)";3415431200237
+"553";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"SubtotalDespesasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (XIII) = (XI + XII)";3415466404340
+"554";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"SubtotalDespesasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (XIII) = (XI + XII)";1788541658908,97
+"555";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"SubtotalDespesasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (XIII) = (XI + XII)";1788541658909
+"556";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"SubtotalDespesasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (XIII) = (XI + XII)";1626924745431
+"557";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"SubtotalDespesasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (XIII) = (XI + XII)";616198536671,01
+"558";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"SubtotalDespesasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (XIII) = (XI + XII)";616198536672
+"559";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"SubtotalDespesasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (XIII) = (XI + XII)";2799267867668
+"560";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"SubtotalDespesasComRefinanciamento";"SUBTOTAL COM REFINANCIAMENTO (XIII) = (XI + XII)";594197364126
+"561";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"TotalDespesas";"TOTAL (XV) = (XIII + XIV)";3415431200237
+"562";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"TotalDespesas";"TOTAL (XV) = (XIII + XIV)";3415466404340
+"563";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"TotalDespesas";"TOTAL (XV) = (XIII + XIV)";1788541658908,97
+"564";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"TotalDespesas";"TOTAL (XV) = (XIII + XIV)";1788541658909
+"565";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"TotalDespesas";"TOTAL (XV) = (XIII + XIV)";616198536671,01
+"566";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"TotalDespesas";"TOTAL (XV) = (XIII + XIV)";616198536672
+"567";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"TotalDespesas";"TOTAL (XV) = (XIII + XIV)";594197364126
+"568";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasIntraOrcamentarias";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";37576969337
+"569";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasIntraOrcamentarias";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";37576969337
+"570";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasIntraOrcamentarias";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";5123117349,51
+"571";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasIntraOrcamentarias";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";13,63
+"572";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasIntraOrcamentarias";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";5123117351
+"573";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasIntraOrcamentarias";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";13,63
+"574";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasIntraOrcamentarias";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";32453851986
+"575";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasCorrentesIntra";"RECEITAS CORRENTES";37576969337
+"576";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasCorrentesIntra";"RECEITAS CORRENTES";37576969337
+"577";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasCorrentesIntra";"RECEITAS CORRENTES";5123117349,51
+"578";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasCorrentesIntra";"RECEITAS CORRENTES";13,63
+"579";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasCorrentesIntra";"RECEITAS CORRENTES";5123117351
+"580";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasCorrentesIntra";"RECEITAS CORRENTES";13,63
+"581";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasCorrentesIntra";"RECEITAS CORRENTES";32453851986
+"582";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaTributariaIntra";"RECEITA TRIBUTÁRIA";624024
+"583";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaTributariaIntra";"RECEITA TRIBUTÁRIA";624024
+"584";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaTributariaIntra";"RECEITA TRIBUTÁRIA";159012,69
+"585";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaTributariaIntra";"RECEITA TRIBUTÁRIA";25,48
+"586";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaTributariaIntra";"RECEITA TRIBUTÁRIA";159013
+"587";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaTributariaIntra";"RECEITA TRIBUTÁRIA";25,48
+"588";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaTributariaIntra";"RECEITA TRIBUTÁRIA";465011
+"589";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ImpostosIntra";"Impostos";298784
+"590";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ImpostosIntra";"Impostos";298784
+"591";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ImpostosIntra";"Impostos";79889,78
+"592";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ImpostosIntra";"Impostos";26,74
+"593";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ImpostosIntra";"Impostos";79890
+"594";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ImpostosIntra";"Impostos";26,74
+"595";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ImpostosIntra";"Impostos";218894
+"596";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"TaxasIntra";"Taxas";325240
+"597";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"TaxasIntra";"Taxas";325240
+"598";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"TaxasIntra";"Taxas";79122,91
+"599";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"TaxasIntra";"Taxas";24,33
+"600";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"TaxasIntra";"Taxas";79123
+"601";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"TaxasIntra";"Taxas";24,33
+"602";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"TaxasIntra";"Taxas";246117
+"603";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaDeContribuicoesIntra";"RECEITA DE CONTRIBUIÇÕES";21328925731
+"604";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaDeContribuicoesIntra";"RECEITA DE CONTRIBUIÇÕES";21328925731
+"605";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaDeContribuicoesIntra";"RECEITA DE CONTRIBUIÇÕES";3026041575,9
+"606";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaDeContribuicoesIntra";"RECEITA DE CONTRIBUIÇÕES";14,19
+"607";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaDeContribuicoesIntra";"RECEITA DE CONTRIBUIÇÕES";3026041575
+"608";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaDeContribuicoesIntra";"RECEITA DE CONTRIBUIÇÕES";14,19
+"609";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaDeContribuicoesIntra";"RECEITA DE CONTRIBUIÇÕES";18302884156
+"610";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ContribuicoesSociaisIntra";"Contribuições Sociais";21328901009
+"611";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ContribuicoesSociaisIntra";"Contribuições Sociais";21328901009
+"612";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ContribuicoesSociaisIntra";"Contribuições Sociais";3026040903,45
+"613";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ContribuicoesSociaisIntra";"Contribuições Sociais";14,19
+"614";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ContribuicoesSociaisIntra";"Contribuições Sociais";3026040903
+"615";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ContribuicoesSociaisIntra";"Contribuições Sociais";14,19
+"616";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ContribuicoesSociaisIntra";"Contribuições Sociais";18302860106
+"617";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ContribuicaoDeIntervencaoNoDominioEconomicoIntra";"Contribuições Econômicas";24722
+"618";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ContribuicaoDeIntervencaoNoDominioEconomicoIntra";"Contribuições Econômicas";24722
+"619";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ContribuicaoDeIntervencaoNoDominioEconomicoIntra";"Contribuições Econômicas";672,45
+"620";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ContribuicaoDeIntervencaoNoDominioEconomicoIntra";"Contribuições Econômicas";2,72
+"621";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ContribuicaoDeIntervencaoNoDominioEconomicoIntra";"Contribuições Econômicas";672
+"622";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ContribuicaoDeIntervencaoNoDominioEconomicoIntra";"Contribuições Econômicas";2,72
+"623";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ContribuicaoDeIntervencaoNoDominioEconomicoIntra";"Contribuições Econômicas";24050
+"624";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaPatrimonialIntra";"RECEITA PATRIMONIAL";2234330
+"625";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaPatrimonialIntra";"RECEITA PATRIMONIAL";2234330
+"626";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaPatrimonialIntra";"RECEITA PATRIMONIAL";198135,26
+"627";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaPatrimonialIntra";"RECEITA PATRIMONIAL";8,87
+"628";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaPatrimonialIntra";"RECEITA PATRIMONIAL";198136
+"629";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaPatrimonialIntra";"RECEITA PATRIMONIAL";8,87
+"630";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaPatrimonialIntra";"RECEITA PATRIMONIAL";2036194
+"631";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasImobiliariasIntra";"Exploração do Patrimônio Imobiliário do Estado";2234330
+"632";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasImobiliariasIntra";"Exploração do Patrimônio Imobiliário do Estado";2234330
+"633";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasImobiliariasIntra";"Exploração do Patrimônio Imobiliário do Estado";197486,55
+"634";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasImobiliariasIntra";"Exploração do Patrimônio Imobiliário do Estado";8,84
+"635";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasImobiliariasIntra";"Exploração do Patrimônio Imobiliário do Estado";197487
+"636";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasImobiliariasIntra";"Exploração do Patrimônio Imobiliário do Estado";8,84
+"637";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasImobiliariasIntra";"Exploração do Patrimônio Imobiliário do Estado";2036843
+"638";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaDeConcessoesEPermissoesIntra";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";648,71
+"639";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaDeConcessoesEPermissoesIntra";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";649
+"640";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaDeConcessoesEPermissoesIntra";"Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença";-649
+"641";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaIndustrialIntra";"RECEITA INDUSTRIAL";183086957
+"642";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaIndustrialIntra";"RECEITA INDUSTRIAL";183086957
+"643";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaIndustrialIntra";"RECEITA INDUSTRIAL";15530784,61
+"644";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaIndustrialIntra";"RECEITA INDUSTRIAL";8,48
+"645";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaIndustrialIntra";"RECEITA INDUSTRIAL";15530785
+"646";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaIndustrialIntra";"RECEITA INDUSTRIAL";8,48
+"647";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaIndustrialIntra";"RECEITA INDUSTRIAL";167556172
+"648";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitaDeServicosIntra";"RECEITA DE SERVIÇOS";58609525
+"649";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitaDeServicosIntra";"RECEITA DE SERVIÇOS";58609525
+"650";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitaDeServicosIntra";"RECEITA DE SERVIÇOS";1657258,88
+"651";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitaDeServicosIntra";"RECEITA DE SERVIÇOS";2,83
+"652";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitaDeServicosIntra";"RECEITA DE SERVIÇOS";1657259
+"653";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitaDeServicosIntra";"RECEITA DE SERVIÇOS";2,83
+"654";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitaDeServicosIntra";"RECEITA DE SERVIÇOS";56952266
+"655";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ServicosAdministrativosEComerciaisGeraisIntra";"Serviços Administrativos e Comerciais Gerais";22222730
+"656";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ServicosAdministrativosEComerciaisGeraisIntra";"Serviços Administrativos e Comerciais Gerais";22222730
+"657";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ServicosAdministrativosEComerciaisGeraisIntra";"Serviços Administrativos e Comerciais Gerais";508506,96
+"658";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ServicosAdministrativosEComerciaisGeraisIntra";"Serviços Administrativos e Comerciais Gerais";2,29
+"659";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ServicosAdministrativosEComerciaisGeraisIntra";"Serviços Administrativos e Comerciais Gerais";508507
+"660";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ServicosAdministrativosEComerciaisGeraisIntra";"Serviços Administrativos e Comerciais Gerais";2,29
+"661";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ServicosAdministrativosEComerciaisGeraisIntra";"Serviços Administrativos e Comerciais Gerais";21714223
+"662";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ServicosEAtividadesReferentesASaudeIntra";"Serviços e Atividades Referentes à Saúde";36350775
+"663";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ServicosEAtividadesReferentesASaudeIntra";"Serviços e Atividades Referentes à Saúde";36350775
+"664";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ServicosEAtividadesReferentesASaudeIntra";"Serviços e Atividades Referentes à Saúde";1150261,08
+"665";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ServicosEAtividadesReferentesASaudeIntra";"Serviços e Atividades Referentes à Saúde";3,16
+"666";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ServicosEAtividadesReferentesASaudeIntra";"Serviços e Atividades Referentes à Saúde";1150261
+"667";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ServicosEAtividadesReferentesASaudeIntra";"Serviços e Atividades Referentes à Saúde";3,16
+"668";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ServicosEAtividadesReferentesASaudeIntra";"Serviços e Atividades Referentes à Saúde";35200514
+"669";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OutrosServicosIntra";"Outros Serviços";36020
+"670";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OutrosServicosIntra";"Outros Serviços";36020
+"671";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OutrosServicosIntra";"Outros Serviços";-1509,16
+"672";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OutrosServicosIntra";"Outros Serviços";-4,19
+"673";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OutrosServicosIntra";"Outros Serviços";-1509
+"674";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OutrosServicosIntra";"Outros Serviços";-4,19
+"675";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OutrosServicosIntra";"Outros Serviços";37529
+"676";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"OutrasReceitasCorrentesIntra";"OUTRAS RECEITAS CORRENTES";16003488770
+"677";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"OutrasReceitasCorrentesIntra";"OUTRAS RECEITAS CORRENTES";16003488770
+"678";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"OutrasReceitasCorrentesIntra";"OUTRAS RECEITAS CORRENTES";2079530582,17
+"679";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"OutrasReceitasCorrentesIntra";"OUTRAS RECEITAS CORRENTES";12,99
+"680";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"OutrasReceitasCorrentesIntra";"OUTRAS RECEITAS CORRENTES";2079530583
+"681";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"OutrasReceitasCorrentesIntra";"OUTRAS RECEITAS CORRENTES";12,99
+"682";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"OutrasReceitasCorrentesIntra";"OUTRAS RECEITAS CORRENTES";13923958187
+"683";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"MultasEJurosDeMoraIntra";"Multas Administrativas, Contratuais e Judiciais";4297
+"684";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"MultasEJurosDeMoraIntra";"Multas Administrativas, Contratuais e Judiciais";4297
+"685";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"MultasEJurosDeMoraIntra";"Multas Administrativas, Contratuais e Judiciais";-14939,38
+"686";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"MultasEJurosDeMoraIntra";"Multas Administrativas, Contratuais e Judiciais";-347,67
+"687";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"MultasEJurosDeMoraIntra";"Multas Administrativas, Contratuais e Judiciais";-14939
+"688";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"MultasEJurosDeMoraIntra";"Multas Administrativas, Contratuais e Judiciais";-347,66
+"689";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"MultasEJurosDeMoraIntra";"Multas Administrativas, Contratuais e Judiciais";19236
+"690";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"IndenizacoesERestituicoesIntra";"Indenizações, Restituições e Ressarcimentos";549006
+"691";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"IndenizacoesERestituicoesIntra";"Indenizações, Restituições e Ressarcimentos";549006
+"692";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"IndenizacoesERestituicoesIntra";"Indenizações, Restituições e Ressarcimentos";251027,03
+"693";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"IndenizacoesERestituicoesIntra";"Indenizações, Restituições e Ressarcimentos";45,72
+"694";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"IndenizacoesERestituicoesIntra";"Indenizações, Restituições e Ressarcimentos";251027
+"695";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"IndenizacoesERestituicoesIntra";"Indenizações, Restituições e Ressarcimentos";45,72
+"696";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"IndenizacoesERestituicoesIntra";"Indenizações, Restituições e Ressarcimentos";297979
+"697";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO INICIAL";"ReceitasCorrentesDiversasIntra";"Demais Receitas Correntes";16002935467
+"698";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"PREVISÃO ATUALIZADA (a)";"ReceitasCorrentesDiversasIntra";"Demais Receitas Correntes";16002935467
+"699";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre (b)";"ReceitasCorrentesDiversasIntra";"Demais Receitas Correntes";2079294494,52
+"700";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (b/a)";"ReceitasCorrentesDiversasIntra";"Demais Receitas Correntes";12,99
+"701";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (c)";"ReceitasCorrentesDiversasIntra";"Demais Receitas Correntes";2079294495
+"702";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"% (c/a)";"ReceitasCorrentesDiversasIntra";"Demais Receitas Correntes";12,99
+"703";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (a-c)";"ReceitasCorrentesDiversasIntra";"Demais Receitas Correntes";13923640972
+"704";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"DespesasIntraOrcamentarias";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";45697742425
+"705";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"DespesasIntraOrcamentarias";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";45697742425
+"706";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasIntraOrcamentarias";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";36493131524,24
+"707";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"DespesasIntraOrcamentarias";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";36493131524
+"708";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"DespesasIntraOrcamentarias";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";9204610901
+"709";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasIntraOrcamentarias";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";4726722846,11
+"710";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"DespesasIntraOrcamentarias";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";4726722847
+"711";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"DespesasIntraOrcamentarias";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";40971019578
+"712";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"DespesasIntraOrcamentarias";"DESPESAS (INTRA-ORÇAMENTÁRIAS) (X)";4560895202
+"713";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"DespesasCorrentesIntra";"DESPESAS CORRENTES";41108227006
+"714";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"DespesasCorrentesIntra";"DESPESAS CORRENTES";41108227006
+"715";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasCorrentesIntra";"DESPESAS CORRENTES";31992122727,81
+"716";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"DespesasCorrentesIntra";"DESPESAS CORRENTES";31992122728
+"717";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"DespesasCorrentesIntra";"DESPESAS CORRENTES";9116104278
+"718";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasCorrentesIntra";"DESPESAS CORRENTES";4726687046,83
+"719";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"DespesasCorrentesIntra";"DESPESAS CORRENTES";4726687047
+"720";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"DespesasCorrentesIntra";"DESPESAS CORRENTES";36381539959
+"721";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"DespesasCorrentesIntra";"DESPESAS CORRENTES";4560860406
+"722";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"PessoalEEncargosSociaisIntra";"PESSOAL E ENCARGOS SOCIAIS";24096148972
+"723";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"PessoalEEncargosSociaisIntra";"PESSOAL E ENCARGOS SOCIAIS";24096148972
+"724";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"PessoalEEncargosSociaisIntra";"PESSOAL E ENCARGOS SOCIAIS";15745581610,59
+"725";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"PessoalEEncargosSociaisIntra";"PESSOAL E ENCARGOS SOCIAIS";15745581611
+"726";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"PessoalEEncargosSociaisIntra";"PESSOAL E ENCARGOS SOCIAIS";8350567361
+"727";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"PessoalEEncargosSociaisIntra";"PESSOAL E ENCARGOS SOCIAIS";3435096603,04
+"728";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"PessoalEEncargosSociaisIntra";"PESSOAL E ENCARGOS SOCIAIS";3435096603
+"729";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"PessoalEEncargosSociaisIntra";"PESSOAL E ENCARGOS SOCIAIS";20661052369
+"730";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"PessoalEEncargosSociaisIntra";"PESSOAL E ENCARGOS SOCIAIS";3294155627
+"731";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"OutrasDespesasCorrentesIntra";"OUTRAS DESPESAS CORRENTES";17012078034
+"732";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"OutrasDespesasCorrentesIntra";"OUTRAS DESPESAS CORRENTES";17012078034
+"733";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"OutrasDespesasCorrentesIntra";"OUTRAS DESPESAS CORRENTES";16246541117,22
+"734";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"OutrasDespesasCorrentesIntra";"OUTRAS DESPESAS CORRENTES";16246541117
+"735";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"OutrasDespesasCorrentesIntra";"OUTRAS DESPESAS CORRENTES";765536917
+"736";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"OutrasDespesasCorrentesIntra";"OUTRAS DESPESAS CORRENTES";1291590443,79
+"737";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"OutrasDespesasCorrentesIntra";"OUTRAS DESPESAS CORRENTES";1291590444
+"738";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"OutrasDespesasCorrentesIntra";"OUTRAS DESPESAS CORRENTES";15720487590
+"739";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"OutrasDespesasCorrentesIntra";"OUTRAS DESPESAS CORRENTES";1266704779
+"740";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"DespesasDeCapitalIntra";"DESPESAS DE CAPITAL";4589515419
+"741";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"DespesasDeCapitalIntra";"DESPESAS DE CAPITAL";4589515419
+"742";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasDeCapitalIntra";"DESPESAS DE CAPITAL";4501008796,43
+"743";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"DespesasDeCapitalIntra";"DESPESAS DE CAPITAL";4501008796
+"744";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"DespesasDeCapitalIntra";"DESPESAS DE CAPITAL";88506623
+"745";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"DespesasDeCapitalIntra";"DESPESAS DE CAPITAL";35799,28
+"746";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"DespesasDeCapitalIntra";"DESPESAS DE CAPITAL";35800
+"747";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"DespesasDeCapitalIntra";"DESPESAS DE CAPITAL";4589479619
+"748";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"DespesasDeCapitalIntra";"DESPESAS DE CAPITAL";34796
+"749";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"InvestimentosIntra";"INVESTIMENTOS";83506083
+"750";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"InvestimentosIntra";"INVESTIMENTOS";83506083
+"751";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"InvestimentosIntra";"INVESTIMENTOS";906698,28
+"752";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"InvestimentosIntra";"INVESTIMENTOS";906698
+"753";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"InvestimentosIntra";"INVESTIMENTOS";82599385
+"754";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"InvestimentosIntra";"INVESTIMENTOS";30186,66
+"755";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"InvestimentosIntra";"INVESTIMENTOS";30187
+"756";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"InvestimentosIntra";"INVESTIMENTOS";83475896
+"757";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"InvestimentosIntra";"INVESTIMENTOS";29597
+"758";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO INICIAL (d)";"InversoesFinanceirasIntra";"INVERSÕES FINANCEIRAS";4506009336
+"759";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DOTAÇÃO ATUALIZADA (e)";"InversoesFinanceirasIntra";"INVERSÕES FINANCEIRAS";4506009336
+"760";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"InversoesFinanceirasIntra";"INVERSÕES FINANCEIRAS";4500102098,15
+"761";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (f)";"InversoesFinanceirasIntra";"INVERSÕES FINANCEIRAS";4500102098
+"762";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (g) = (e-f)";"InversoesFinanceirasIntra";"INVERSÕES FINANCEIRAS";5907238
+"763";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"No Bimestre";"InversoesFinanceirasIntra";"INVERSÕES FINANCEIRAS";5612,62
+"764";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"Até o Bimestre (h)";"InversoesFinanceirasIntra";"INVERSÕES FINANCEIRAS";5613
+"765";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"SALDO (i) = (e-h)";"InversoesFinanceirasIntra";"INVERSÕES FINANCEIRAS";4506003723
+"766";2017;"RREO";1;"B";"Governo Federal";1;"BR";NA;"RREO-Anexo 01";NA;"DESPESAS PAGAS ATÉ O BIMESTRE (j)";"InversoesFinanceirasIntra";"INVERSÕES FINANCEIRAS";5199
